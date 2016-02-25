@@ -1,0 +1,53 @@
+lxi
+
+on additionne les valeurs numeriques des lettres dont se compose
+18 nom de chaque roi: ce sont des valeurs de convention attribuees
+aux lettres de l'alphabet: elles vont depuis l'unite jusqu ’au mille, et
+se classeut par unite‘s‚ dizaines‚ centaines et milliers. L'addition
+faite, on retranche neus de chaque somme autant de fois qu 11 faut
+d’avoir deux restes moindres que neuf. On compare ces restes
+ensemble. si l'un est plus fort que l’autre, et que tous les deux
+soient des nombres pairs ou des nombres lmpairs‚ le roi dont le nom
+afourni le reste le plus faible obtiendra la victoire. Si l'un des restes
+est un nombre pair et l'autre un nombre impair, 18 roi dont le nom
+a fourni 18 reste 18 plus fort sera le vainqueur. Si 185 deux restes
+sont e'gaux, et qu ’115 soient des nombres pairs, le roi qui est attaque
+remportera la victoire: si les restes sont egaux et impairs 18 roi qui
+attaque triomphera. On trouve dans 18 meme livre deux vers qui se
+rapportent a cette operation, et qui sont bien connus: les voici—
+
+Dans les pairs et dans les impairs‚ c’est 18 moindre nombre
+qui l⁷emp·orte,
+
+Si l'un est pair et l’autre impair‚ c’est 18 plus grand qui sera
+vainqueur
+
+Celui qui est attaqu'e aura la victoire, si 185 deux nombres
+egaux sont pairs,
+
+S'ils sont impairs, celui qui attaque triomphera.
+
+The numerical values given on p. 243 (op. cit.) differ in some
+respectsfrom those in our text, being those of the Magribi system.
+But no two MSS. coincide. In Fleischer’s catalogue of Leipzig MSS.
+p. 337 wqfind notice of a tract by Yahya ibn al-Batrik‚ where he uses
+the ‘somma maggiore ', ‘jamlat kanir', in which μς = 2. The Syriae
+numerica] ·values correspond with those used in the Eastern Arabic.
+The ‘abjad ⁷ system is the Hebrew order sor the twenty-two letters
+followed by six additional letters.
+
+In the Western form the letters* are arranged in alphabetical order
+with the following numerical values ε
+
+1234567890
+ltqcozjjcl'ofi
+ωἰὼ-ζ)Υ 0⁶ &ll-25·
+
+’ἃ ⁸³ 2
+
+ὁ 4.)ss
+
+e· υἷ’
+
+&j
+
